@@ -1,5 +1,8 @@
 _repo: Wolf-Cap-or-The-Night-Hawks-of-the-Fire-Lands-A-Tale-of-the-Bloody-Fort_66231
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66231-h/images/cover.jpg
 creator:
   author:
     agent_name: Harbaugh, T. C. (Thomas Chalmers)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36351
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Chalmers_Harbaugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66231#Wolf-Cap-or-The-Night-Hawks-of-the-Fire-Lands-A-Tale-of-the-Bloody-Fort
 gutenberg_issued: '2021-09-06'
 identifiers:
   gutenberg: '66231'
